@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 10 15:54:12 EEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014f-b752-0e89-00000eb331f8 
+on database directory memory:C:\RGAV_Data\_Pluralsight_\DP01 - Design Patterns in Java - Creational\RGAV\DP_m2_Singleton\CreationalSingletonPattern\codejava\webdb with class loader sun.misc.Launcher$AppClassLoader@70dea4e 
+Loaded from file:/C:/RGAV_Data/_Pluralsight_/DP01%20-%20Design%20Patterns%20in%20Java%20-%20Creational/RGAV/DP_m2_Singleton/CreationalSingletonPattern/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=C:\RGAV_Data\_Pluralsight_\DP01 - Design Patterns in Java - Creational\RGAV\DP_m2_Singleton\CreationalSingletonPattern
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
