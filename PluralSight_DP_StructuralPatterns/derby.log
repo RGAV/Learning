@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 21 18:50:56 EEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014f-f099-d085-00000eb423d8 
+on database directory memory:D:\_RGAV_Learning_\PluralSight_DP_StructuralPatterns\codejava\wedb with class loader sun.misc.Launcher$AppClassLoader@70dea4e 
+Loaded from file:/D:/_RGAV_Learning_/PluralSight_DP_StructuralPatterns/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=D:\_RGAV_Learning_\PluralSight_DP_StructuralPatterns
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
